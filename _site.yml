@@ -1,5 +1,5 @@
 name: "YOUR-WEBSITE-NAME"
-output_dir: "."
+output_dir: "~/Website"
 navbar:
   title: "Your website name"
   left:
